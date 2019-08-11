@@ -34,7 +34,7 @@ function Header() {
     rel: "stylesheet",
     href: "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css",
     integrity: "sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T",
-    crossorigin: "anonymous",
+    crossOrigin: "anonymous",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7
@@ -72,7 +72,7 @@ var _jsxFileName = "C:\\Users\\Von\\Documents\\FnF\\components\\Navbar.js";
 
 function Navbar() {
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", {
-    "class": "navbar navbar-expand-lg navbar-light bg-light font-italic",
+    className: "navbar navbar-expand-lg navbar-light bg-light font-italic",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6
@@ -107,7 +107,7 @@ function Navbar() {
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    "class": "collapse navbar-collapse",
+    className: "collapse navbar-collapse",
     id: "navbarNavAltMarkup",
     __source: {
       fileName: _jsxFileName,
@@ -185,7 +185,7 @@ function Navbar() {
     },
     __self: this
   }, "Staffing")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "/caiter",
+    href: "/cater",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 25
@@ -10934,7 +10934,7 @@ function Index() {
 
 /***/ }),
 
-/***/ 1:
+/***/ 0:
 /*!************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5CVon%5CDocuments%5CFnF%5Cpages%5Cindex.js ***!
   \************************************************************************************************************************/
@@ -10957,5 +10957,5 @@ module.exports = dll_01f9a3fa864a7b7414d8;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[0,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
